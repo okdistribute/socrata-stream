@@ -1,6 +1,6 @@
 {
-  "name": "socrata.js",
-  "version": "1.0.0",
+  "name": "socrata",
+  "version": "0.0.0",
   "description": "Get socrata data with cli or javascript",
   "main": "index.js",
   "scripts": {
