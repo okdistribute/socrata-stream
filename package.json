@@ -1,0 +1,26 @@
+{
+  "name": "socrata.js",
+  "version": "1.0.0",
+  "description": "Get socrata data with cli or javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karissa/socrata.js.git"
+  },
+  "keywords": [
+    "socrata",
+    "data",
+    "cli",
+    "open",
+    "data"
+  ],
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/karissa/socrata.js/issues"
+  },
+  "homepage": "https://github.com/karissa/socrata.js#readme"
+}
