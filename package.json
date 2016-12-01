@@ -1,7 +1,7 @@
 {
   "name": "socrata-stream",
   "version": "1.0.0",
-  "description": "Get socrata data with cli or javascript",
+  "description": "Get bulk socrata data as a node stream.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
